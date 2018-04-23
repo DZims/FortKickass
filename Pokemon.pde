@@ -1,11 +1,13 @@
 class Pokemon {
-  int hp, level, exp, atk, def, speed;
+  int id, hp, level, exp, atk, def, speed;
   Boolean ko;
-  String type;
+  String name, type;
   Move[] moves;
   PImage sprite;
   
-  Pokemon(int _hp, int _level, int _exp, int _atk, int _def, int _speed, String _type, Move[] _moves, PImage _sprite){
+  Pokemon(int _id, String _name, int _level, int _exp, String _type, int _hp, int _atk, int _def, int _speed, Move[] _moves, PImage _sprite){
+    id = _id;
+    name = _name;
     hp = _hp;
     level = _level;
     exp = _exp;
