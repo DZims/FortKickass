@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<moveList>
+ <move>
+   <info id = "0" name="P" dmg="1" pp ="0" type = "">
+   </info>
+ </move>
+ <move>
+   <info id = "0" name="P" dmg="1" pp ="0" type = "">
+   </info>
+ </move>
+ <move>
+   <info id = "0" name="P" dmg="1" pp ="0" type = "">
+   </info>
+ </move>
+</moveList>

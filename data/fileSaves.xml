@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<playerData>
+ <file id="0" save="0">
+   <info name="P" money = "0" playTime = "0" gender = "">
+   </info>
+   <team>
+     <pokemon>
+       <info id = "0" name="P" level="1" exp ="0"  type = "">
+       </info>
+       <stats hp = "0" atk = "0" def = "0" speed = "0">
+       </stats>
+       <moves move0 = "" move1 = "" move2 = "" move3 = "">
+       </move>
+     </pokemon>
+     <pokemon>
+       <info id = "0" name="P" level="1" exp ="0"  type = "">
+       </info>
+       <stats hp = "0" atk = "0" def = "0" speed = "0">
+       </stats>
+       <moves move0 = "" move1 = "" move2 = "" move3 = "">
+       </move>
+     </pokemon>
+     <pokemon>
+       <info id = "0" name="P" level="1" exp ="0"  type = "">
+       </info>
+       <stats hp = "0" atk = "0" def = "0" speed = "0">
+       </stats>
+       <moves move0 = "" move1 = "" move2 = "" move3 = "">
+       </move>
+     </pokemon>
+     <pokemon>
+       <info id = "0" name="P" level="1" exp ="0"  type = "">
+       </info>
+       <stats hp = "0" atk = "0" def = "0" speed = "0">
+       </stats>
+       <moves move0 = "" move1 = "" move2 = "" move3 = "">
+       </move>
+     </pokemon>
+     <pokemon>
+       <info id = "0" name="P" level="1" exp ="0"  type = "">
+       </info>
+       <stats hp = "0" atk = "0" def = "0" speed = "0">
+       </stats>
+       <moves move0 = "" move1 = "" move2 = "" move3 = "">
+       </move>
+     </pokemon>
+     <pokemon>
+       <info id = "0" name="P" level="1" exp ="0"  type = "">
+       </info>
+       <stats hp = "0" atk = "0" def = "0" speed = "0">
+       </stats>
+       <moves move0 = "" move1 = "" move2 = "" move3 = "">
+       </move>
+     </pokemon>
+   </team>
+   <inventory>
+   </inventory>
+ </file>
+ <file id="1" save="0">
+   <info name="P" money = "0" playTime = "0" gender = "">
+   </info>
+   <team>
+     <pokemon>
+       <info id = "0" name="P" level="1" exp ="0"  type = "">
+       </info>
+       <stats hp = "0" atk = "0" def = "0" speed = "0">
+       </stats>
+       <moves move0 = "" move1 = "" move2 = "" move3 = "">
+       </move>
+     </pokemon>
+     <pokemon>
+       <info id = "0" name="P" level="1" exp ="0"  type = "">
+       </info>
+       <stats hp = "0" atk = "0" def = "0" speed = "0">
+       </stats>
+       <moves move0 = "" move1 = "" move2 = "" move3 = "">
+       </move>
+     </pokemon>
+     <pokemon>
+       <info id = "0" name="P" level="1" exp ="0"  type = "">
+       </info>
+       <stats hp = "0" atk = "0" def = "0" speed = "0">
+       </stats>
+       <moves move0 = "" move1 = "" move2 = "" move3 = "">
+       </move>
+     </pokemon>
+     <pokemon>
+       <info id = "0" name="P" level="1" exp ="0"  type = "">
+       </info>
+       <stats hp = "0" atk = "0" def = "0" speed = "0">
+       </stats>
+       <moves move0 = "" move1 = "" move2 = "" move3 = "">
+       </move>
+     </pokemon>
+     <pokemon>
+       <info id = "0" name="P" level="1" exp ="0"  type = "">
+       </info>
+       <stats hp = "0" atk = "0" def = "0" speed = "0">
+       </stats>
+       <moves move0 = "" move1 = "" move2 = "" move3 = "">
+       </move>
+     </pokemon>
+     <pokemon>
+       <info id = "0" name="P" level="1" exp ="0"  type = "">
+       </info>
+       <stats hp = "0" atk = "0" def = "0" speed = "0">
+       </stats>
+       <moves move0 = "" move1 = "" move2 = "" move3 = "">
+       </move>
+     </pokemon>
+   </team>
+   <inventory>
+   </inventory>
+ </file>
+ <file id="2" save="0">
+   <info name="P" money = "0" playTime = "0" gender = "">
+   </info>
+   <team>
+     <pokemon>
+       <info id = "0" name="P" level="1" exp ="0"  type = "">
+       </info>
+       <stats hp = "0" atk = "0" def = "0" speed = "0">
+       </stats>
+       <moves move0 = "" move1 = "" move2 = "" move3 = "">
+       </move>
+     </pokemon>
+     <pokemon>
+       <info id = "0" name="P" level="1" exp ="0"  type = "">
+       </info>
+       <stats hp = "0" atk = "0" def = "0" speed = "0">
+       </stats>
+       <moves move0 = "" move1 = "" move2 = "" move3 = "">
+       </move>
+     </pokemon>
+     <pokemon>
+       <info id = "0" name="P" level="1" exp ="0"  type = "">
+       </info>
+       <stats hp = "0" atk = "0" def = "0" speed = "0">
+       </stats>
+       <moves move0 = "" move1 = "" move2 = "" move3 = "">
+       </move>
+     </pokemon>
+     <pokemon>
+       <info id = "0" name="P" level="1" exp ="0"  type = "">
+       </info>
+       <stats hp = "0" atk = "0" def = "0" speed = "0">
+       </stats>
+       <moves move0 = "" move1 = "" move2 = "" move3 = "">
+       </move>
+     </pokemon>
+     <pokemon>
+       <info id = "0" name="P" level="1" exp ="0"  type = "">
+       </info>
+       <stats hp = "0" atk = "0" def = "0" speed = "0">
+       </stats>
+       <moves move0 = "" move1 = "" move2 = "" move3 = "">
+       </move>
+     </pokemon>
+     <pokemon>
+       <info id = "0" name="P" level="1" exp ="0"  type = "">
+       </info>
+       <stats hp = "0" atk = "0" def = "0" speed = "0">
+       </stats>
+       <moves move0 = "" move1 = "" move2 = "" move3 = "">
+       </move>
+     </pokemon>
+   </team>
+   <inventory>
+   </inventory>
+ </file>
+</playerData>

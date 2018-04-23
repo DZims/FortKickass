@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<pokemonList>
+ <pokemon>
+   <info id = "0" name="P" level="1" exp ="0" type = "">
+   </info>
+   <stats hp = "0" atk = "0" def = "0" speed = "0">
+   </stats>
+   <moves move0 = "" move1 = "" move2 = "" move3 = "">
+   </move>
+ </pokemon>
+ <pokemon>
+   <info id = "0" name="P" level="1" exp ="0" type = "">
+   </info>
+   <stats hp = "0" atk = "0" def = "0" speed = "0">
+   </stats>
+   <moves move0 = "" move1 = "" move2 = "" move3 = "">
+   </move>
+ </pokemon>
+ <pokemon>
+   <info id = "0" name="P" level="1" exp ="0" type = "">
+   </info>
+   <stats hp = "0" atk = "0" def = "0" speed = "0">
+   </stats>
+   <moves move0 = "" move1 = "" move2 = "" move3 = "">
+   </move>
+ </pokemon>
+</pokemonList>
