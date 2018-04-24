@@ -1,2 +1,2 @@
 # FortKickass
-You Know what it is
+please don't fuck up
